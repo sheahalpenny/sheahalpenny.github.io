@@ -1,10 +1,10 @@
 /*stylesheet*/
 @import url('https://fonts.googleapis.com/css?family=Aclonica');
-@import url('https://fonts.googleapis.com/css?family=Syne Mono');
+@import url('https://fonts.googleapis.com/css?family=SyneMono');
 /*iwannadie*/
 
 body {
-  font-family: "Helvetica", "Georgia", "Times New Roman", serif;
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 20px;
 }
 
