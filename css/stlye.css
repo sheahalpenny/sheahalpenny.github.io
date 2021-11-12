@@ -1,10 +1,10 @@
 /*stylesheet*/
-<link href='https://fonts.googleapis.com/css?family=Aclonica' rel='stylesheet'>
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
 
 
 body {
-  font-family: "PT Serif", "Georgia", "Times New Roman", serif;
-  font-size: 18px;
+  font-family: "Aclonica", "Verdana", "Times New Roman", cursive;
+  font-size: 20px;
   color: #222;
   line-height: 1.5;
 }
