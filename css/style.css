@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css?family=SyneMono');
 /*iwannadie*/
 
-head {
-  color: rgb(242,173,72)
-}
 
 body {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
@@ -14,7 +11,12 @@ body {
  line-height: 2.0;
 }
 
-h1,
+h1 {
+  font-family: "Aclonica", sans-serif;
+  font-weight: 700;
+  color: rgb(0,128,0)
+}
+
 h2,
 h3 {
   font-family: "Aclonica", sans-serif;
