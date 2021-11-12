@@ -34,3 +34,21 @@ footer p {
   font-size: 18px;
   color: rgb(244,115,33);
 }
+
+#geography p {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: rgb(244,115,33);
+}
+
+#people-and-society p {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: rgb(244,115,33);
+}
+
+#government p {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: rgb(244,115,33);
+}
