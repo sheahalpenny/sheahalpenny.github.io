@@ -3,10 +3,14 @@
 @import url('https://fonts.googleapis.com/css?family=SyneMono');
 /*iwannadie*/
 
+head {
+  color: rgb(242,173,72)
+}
+
 body {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 20px;
-  color: #aaa;
+  color: #333;
  line-height: 2.0;
 }
 
