@@ -28,7 +28,7 @@ h3 {
 ul,
 li, {font-family: "Mallanna", "Georgia", "Times New Roman", serif;
   font-size: 20px;
-  color: rgb(244,115,33);
+  color: rgb(255,0,0);
 }
 
 footer p {
@@ -39,23 +39,23 @@ footer p {
 #introduction p {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 18px;
-  color: rgb(244,115,33);
+  color: rgb(255,0,0);
 }
 
 #geography p {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 18px;
-  color: rgb(244,115,33);
+  color: rgb(255,0,0);
 }
 
 #people-and-society p {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 18px;
-  color: rgb(244,115,33);
+  color: rgb(255,0,0);
 }
 
 #government p {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 18px;
-  color: rgb(244,115,33);
+  color: rgb(255,0,0);
 }
