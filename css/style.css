@@ -12,6 +12,23 @@ body {
   line-height: 2.0;
 }
 
+a,
+a:link {
+  color: rgb(14,31,65);
+}
+
+a:visited {
+  color: #555; /* contrast ratio: 7.45:1 */
+}
+
+a:hover {
+  color: rgb(201,53,68);
+}
+
+a:active {
+  color: rgb(245,188,78);
+}
+
 h1 {
   font-family: "Aclonica", sans-serif;
   font-weight: 700;
@@ -62,6 +79,7 @@ footer p {
 
 tr, td, th{
   border: 1px solid #999;
+  border-collapse: collapse;
   padding: 0 rem;
-  color: (255,0,0)
+  color: orange;
 }
