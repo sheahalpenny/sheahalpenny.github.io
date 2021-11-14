@@ -141,3 +141,8 @@ tr, td, th{
   color: #ff0000;
   text-align: center;
 }
+
+.center {
+  margin-right: auto;
+  margin-left: auto;
+}
