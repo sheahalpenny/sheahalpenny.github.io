@@ -60,15 +60,15 @@ h1 {
 }
 
 h2,
-h3 {
+h3,
+h4 {
   font-family: "Aclonica", sans-serif;
   font-weight: 500;
-  color: rgb(0,128,0)
+  color: rgb(0,128,0);
 }
 
-aside{
-  background-color: #ff0000;
-  color: #fffaf0;
+aside p{
+  color: rgb(255,0,0);
 }
 
 article {
