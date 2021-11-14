@@ -11,9 +11,9 @@ body {
   color: #222;
   line-height: 2.0;
   max-width: 1080px;
-  margin: 5px auto;
+  margin: 0;
   display: grid;
-  grid-template-columns: 400px;
+  grid-template-columns: 900px;
   grid-gap: 5px;
   grid-template-areas:
     "header header"
