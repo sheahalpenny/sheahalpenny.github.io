@@ -11,14 +11,18 @@ body {
   color: #222;
   line-height: 2.0;
   max-width: 1080px;
-  margin: 20px auto;
+  margin: 5px auto;
   display: grid;
-  grid-template-columns: 1fr 2fr;
-  grid-gap: 10px;
+  grid-template-columns: 400px;
+  grid-gap: 5px;
   grid-template-areas:
-    "header header"
-    "nav    main"
-    "footer main";
+    "header nav"
+    "main   main"
+    "main   footer";
+}
+
+head {
+  grid-area: head;
 }
 
 header {
