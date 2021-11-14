@@ -57,6 +57,24 @@ body {
   padding-right: 300px;
 }
 
+.age_pyramid {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+.pyramid {
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
+}
+
+.pyramid_text {
+  display: inline;
+  font-size: 50px;
+  padding-right: 300px;
+}
+
 header {
   grid-area: header;
 }
