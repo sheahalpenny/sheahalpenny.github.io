@@ -42,6 +42,16 @@ h3 {
   color: rgb(0,128,0)
 }
 
+aside h4 {
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
+aside p {
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
 article {
   font-family: "Mallanna", "Georgia", "Times New Roman", serif;
   font-size: 20px;
