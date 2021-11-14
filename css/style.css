@@ -35,13 +35,7 @@ body {
 
 .title {
   display: inline;
-  font-size: 70px;
-  padding-left: 5px;
-}
-
-.text {
-  display: inline;
-  font-size: 18px;
+  font-size: 50px;
   padding-left: 5px;
 }
 
@@ -52,9 +46,15 @@ body {
 }
 
 .map {
-  width: 200px;
+  width: 150px;
   float: left;
   flex-basis: 40%
+}
+
+.text {
+  display: inline;
+  font-size: 18px;
+  padding-left: 5px;
 }
 
 header {
@@ -92,7 +92,7 @@ a:active {
 
 h1 {
   font-family: "Aclonica", sans-serif;
-  font-size: 70px;
+  font-size: 50px;
   font-weight: 900;
   color: rgb(0,128,0)
 }
