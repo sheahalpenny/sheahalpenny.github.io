@@ -21,7 +21,7 @@ body {
     "main   footer";
 }
 
-.introduction {
+.header {
   display: flex;
   align-items: left;
   justify-content: left;
