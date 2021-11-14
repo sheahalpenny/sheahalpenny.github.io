@@ -18,7 +18,7 @@ a:link {
 }
 
 a:visited {
-  color: #555; 
+  color: #555;
 }
 
 a:hover {
@@ -42,7 +42,8 @@ h3 {
   color: rgb(0,128,0)
 }
 
-ul, {font-family: "Mallanna", "Georgia", "Times New Roman", serif;
+ul, {
+   font-family: "Mallanna", "Georgia", "Times New Roman", serif;
   font-size: 20px;
   color: rgb(255,0,0);
 }
@@ -80,5 +81,5 @@ tr, td, th{
   border: 1px solid #999;
   border-collapse: collapse;
   padding: 0 rem;
-  color: orange;
+  color: red;
 }
