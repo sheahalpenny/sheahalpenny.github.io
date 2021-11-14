@@ -61,7 +61,7 @@ body p {
 .capital_text {
   display: inline;
   font-size: 18px;
-  padding-right: 5px;
+  padding-left: 5px;
 }
 
 .age_pyramid {
@@ -79,7 +79,7 @@ body p {
 .pyramid_text {
   display: inline;
   font-size: 18px;
-  padding-right: 5px;
+  padding-left: 5px;
 }
 
 header {
