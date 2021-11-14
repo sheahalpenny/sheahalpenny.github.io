@@ -104,14 +104,6 @@ tr, td, th{
   color: #ff0000;
 }
 
-.resources ul {
-    padding: 0px 0px 0px 0px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    list-style:none;
-    list-style-position:outside;
-}
-
 .resources li{
   display:inline-block;
   text-align: center;
@@ -119,27 +111,11 @@ tr, td, th{
   margin: 5px 0px 5px 0px;
 }
 
-.regions ul {
-  padding: 0px 0px 0px 0px;
-  margin-bottom: 10px; 
-  margin-top: 10px;
-  list-style:none;
-  list-style-position:outside;
-}
-
 .regions li{
   display:inline-block;
   text-align: center;
   color: #ff0000;
   margin: 5px 0px 5px 0px;
-}
-
-.climate_change dl {
-  padding: 0px 0px 0px 0px;
-  margin-bottom: 10px; 
-  margin-top: 10px;
-  list-style:none;
-  list-style-position:outside;
 }
 
 .climate_change dt {
@@ -154,14 +130,6 @@ tr, td, th{
   text-align: center;
   color: #ff0000;
   margin: 5px 0px 5px 0px;
-}
-
-.agreements ul {
-  padding: 0px 0px 0px 0px;
-  margin-bottom: 10px; 
-  margin-top: 10px;
-  list-style:none;
-  list-style-position:outside;
 }
 
 .agreements li {
