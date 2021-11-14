@@ -111,6 +111,6 @@ tr, td, th{
   border-collapse: collapse;
   padding: 0 rem;
   color: #ff0000;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
+  margin-right: center;
 }
