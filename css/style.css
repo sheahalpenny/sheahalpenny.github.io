@@ -39,24 +39,6 @@ body {
   padding-right: 500px;
 }
 
-.layout {
-  display: flex;
-  align-items: left;
-  justify-content: left;
-}
-
-.map {
-  width: 150px;
-  float: left;
-  flex-basis: 70%;
-}
-
-.text {
-  display: inline;
-  font-size: 18px;
-  padding-left: 0px;
-}
-
 header {
   grid-area: header;
 }
