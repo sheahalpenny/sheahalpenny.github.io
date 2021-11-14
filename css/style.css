@@ -21,7 +21,7 @@ body {
     "main   footer";
 }
 
-.container {
+.introduction {
   display: flex;
   align-items: center;
   justify-content: center
@@ -31,7 +31,7 @@ img {
   max-width: 50%
 }
 
-.image {
+.flag {
   flex-basis: 40%
 }
 
