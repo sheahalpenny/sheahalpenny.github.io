@@ -23,8 +23,8 @@ body {
 
 .header {
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: right;
+  justify-content: right;
 }
 
 .flag {
