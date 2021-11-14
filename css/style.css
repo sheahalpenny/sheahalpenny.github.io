@@ -48,7 +48,7 @@ body {
 .map {
   width: 150px;
   float: left;
-  flex-basis: 40%;
+  flex-basis: 70%;
 }
 
 .text {
