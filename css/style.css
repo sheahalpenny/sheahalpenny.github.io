@@ -102,11 +102,6 @@ footer p {
   color: #aaa;
 }
 
-.nav{
-  list-style-type: none;
-
-}
-
 #introduction p {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 18px;
@@ -153,7 +148,7 @@ footer p {
 
 #graphics {
   height: 150px;
-  width: 150px;
+  width: 100px;
 }
 
 table{
