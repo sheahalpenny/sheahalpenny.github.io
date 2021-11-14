@@ -48,7 +48,7 @@ body {
 .building {
   width: 100px;
   float: right;
-  flex-basis: 40%;
+  flex-basis: 100%;
 }
 
 .capital_text {
@@ -66,7 +66,7 @@ body {
 .pyramid {
   width: 100px;
   float: right;
-  flex-basis: 40%;
+  flex-basis: 100%;
 }
 
 .pyramid_text {
