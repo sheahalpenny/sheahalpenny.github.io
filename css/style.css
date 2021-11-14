@@ -104,37 +104,3 @@ tr, td, th{
   color: #ff0000;
 }
 
-.resources li{
-  display:inline-block;
-  text-align: center;
-  color: #ff0000;
-  margin: 5px 0px 5px 0px;
-}
-
-.regions li{
-  display:inline-block;
-  text-align: center;
-  color: #ff0000;
-  margin: 5px 0px 5px 0px;
-}
-
-.climate_change dt {
-  display:inline-block;
-  text-align: center;
-  color: #ff0000;
-  margin: 5px 0px 5px 0px;
-}
-
-.climate_change dd {
-  display:inline-block;
-  text-align: center;
-  color: #ff0000;
-  margin: 5px 0px 5px 0px;
-}
-
-.agreements li {
-  display:inline-block;
-  text-align: center;
-  color: #ff0000;
-  margin: 5px 0px 5px 0px;
-}
