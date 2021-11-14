@@ -16,7 +16,7 @@ body {
   grid-template-columns: 900px;
   grid-gap: 5px;
   grid-template-areas:
-    "header header"
+    "header nav"
     "main   nav"
     "main   footer";
 }
