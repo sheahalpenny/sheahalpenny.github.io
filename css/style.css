@@ -18,7 +18,7 @@ a:link {
 }
 
 a:visited {
-  color: #555; /* contrast ratio: 7.45:1 */
+  color: #555; 
 }
 
 a:hover {
@@ -42,8 +42,7 @@ h3 {
   color: rgb(0,128,0)
 }
 
-ul,
-li, {font-family: "Mallanna", "Georgia", "Times New Roman", serif;
+ul, {font-family: "Mallanna", "Georgia", "Times New Roman", serif;
   font-size: 20px;
   color: rgb(255,0,0);
 }
