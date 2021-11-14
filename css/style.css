@@ -108,12 +108,11 @@ footer p {
 }
 
 table{
-  width: 50%
-
+  width: 50%;
 }
 
 th {
-  hieght: 70px
+  hieght: 70px;
 }
 
 tr, td, th{
