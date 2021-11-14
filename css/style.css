@@ -24,12 +24,12 @@ body {
 .header {
   display: flex;
   align-items: right;
-  justify-content: left;
+  justify-content: right;
 }
 
 .flag {
   width: 150px;
-  float: right;
+  float: left;
   flex-basis: 40%
 }
 
