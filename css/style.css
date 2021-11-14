@@ -21,8 +21,23 @@ body {
     "main   footer";
 }
 
-head {
-  grid-area: head;
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 50%
+}
+
+.image {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 30px;
+  padding-left: 20px;
 }
 
 header {
@@ -40,6 +55,7 @@ main {
 footer {
   grid-area: footer;
 }
+
 a,
 a:link {
   color: rgb(255,0,0);
