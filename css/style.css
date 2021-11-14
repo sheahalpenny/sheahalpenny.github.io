@@ -48,38 +48,38 @@ body p {
 
 .capital {
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: right;
+  justify-content: right;
 }
 
 .building {
-  width: 100px;
-  float: right;
-  flex-basis: 100%;
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
 }
 
 .capital_text {
   display: inline;
   font-size: 18px;
-  padding-left: 5px;
+  padding-right: 100px;
 }
 
 .age_pyramid {
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: right;
+  justify-content: right;
 }
 
 .pyramid {
-  width: 100px;
-  float: right;
-  flex-basis: 100%;
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
 }
 
 .pyramid_text {
   display: inline;
   font-size: 18px;
-  padding-left: 5px;
+  padding-right: 100px;
 }
 
 header {
