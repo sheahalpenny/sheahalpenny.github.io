@@ -51,12 +51,7 @@ h3 {
   color: rgb(0,128,0)
 }
 
-aside h4 {
-  background-color: #ff0000;
-  color: #ffffff;
-}
-
-aside p {
+aside{
   background-color: #ff0000;
   color: #ffffff;
 }
