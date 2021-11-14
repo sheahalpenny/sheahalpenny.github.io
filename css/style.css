@@ -46,42 +46,6 @@ body p {
   padding-right: 100px;
 }
 
-.capital {
-  display: flex;
-  align-items: right;
-  justify-content: right;
-}
-
-.building {
-  width: 150px;
-  float: left;
-  flex-basis: 40%;
-}
-
-.capital_text {
-  display: inline;
-  font-size: 18px;
-  padding-right: 100px;
-}
-
-.age_pyramid {
-  display: flex;
-  align-items: right;
-  justify-content: right;
-}
-
-.pyramid {
-  width: 150px;
-  float: left;
-  flex-basis: 40%;
-}
-
-.pyramid_text {
-  display: inline;
-  font-size: 18px;
-  padding-right: 100px;
-}
-
 header {
   grid-area: header;
 }
