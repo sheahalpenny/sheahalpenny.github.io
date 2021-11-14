@@ -27,11 +27,11 @@ a:link {
 }
 
 a:visited {
-  color: #555;
+  color: 	rgb(75,0,130);
 }
 
 a:hover {
-  color: rgb(201,53,68);
+  color: rgb(0,0,205);
 }
 
 a:active {
