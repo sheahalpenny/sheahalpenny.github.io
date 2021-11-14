@@ -46,7 +46,7 @@ body {
 }
 
 .building {
-  width: 150px;
+  width: 100px;
   float: right;
   flex-basis: 40%;
 }
@@ -64,7 +64,7 @@ body {
 }
 
 .pyramid {
-  width: 150px;
+  width: 100px;
   float: right;
   flex-basis: 40%;
 }
