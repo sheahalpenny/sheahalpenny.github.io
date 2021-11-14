@@ -97,6 +97,15 @@ footer p {
   margin: 10;
 }
 
+table{
+  width: 100%
+
+}
+
+th {
+  hieght: 70px
+}
+
 tr, td, th{
   border: 1px solid #999;
   border-collapse: collapse;
