@@ -23,8 +23,8 @@ body {
 
 .header {
   display: flex;
-  align-items: right;
-  justify-content: right;
+  align-items: left;
+  justify-content: left;
 }
 
 .flag {
@@ -162,6 +162,11 @@ footer p {
   border: 10px;
   border-style: none;
   margin: 5px;
+}
+
+#graphics {
+  height: 150px;
+  width: 150px;
 }
 
 table{
