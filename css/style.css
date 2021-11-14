@@ -79,7 +79,7 @@ footer p {
 
 tr, td, th{
   border: 1px solid #999;
-  border-collapse: collapse;
+  border-spacing: 0;
   padding: 0 rem;
   color: red;
 }
