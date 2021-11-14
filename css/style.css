@@ -23,13 +23,13 @@ body {
 
 .header {
   display: flex;
-  align-items: left;
+  align-items: right;
   justify-content: left;
 }
 
 .flag {
   width: 150px;
-  float: left;
+  float: right;
   flex-basis: 40%
 }
 
