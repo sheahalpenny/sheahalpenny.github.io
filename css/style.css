@@ -135,6 +135,11 @@ footer p {
   font-family: "SyneMono", "Georgia", "Times New Roman", serif;
   font-size: 18px;
   color: rgb(255,0,0);
+  width: 900px;
+  padding: 20px;
+  border: 10px;
+  border-style: none;
+  margin: 5px;
 }
 
 #people-and-society p {
