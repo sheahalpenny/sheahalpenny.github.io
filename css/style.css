@@ -17,7 +17,11 @@ body {
   grid-template-areas:
     "header header"
     "main   nav"
-    "main   footer"
+    "main   footer";
+  grid-template-areas:
+    "blob           blob"
+    "jdc            jdc"
+    "jdc_cultures   jdc_cultures";
 }
 
 body p {
@@ -81,6 +85,10 @@ header {
 
 nav {
   grid-area: nav;
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 16px;
+  color: #000080;
+  line-height: 1.0;
 }
 
 main {
@@ -89,6 +97,18 @@ main {
 
 footer {
   grid-area: footer;
+}
+
+.blob {
+  grid-area: blob;
+}
+
+.jdc {
+  grid-area: jdc;
+}
+
+.jdc_cultures{
+  grid-area: jdc_cultures;
 }
 
 a,
