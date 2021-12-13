@@ -92,18 +92,6 @@ footer {
   grid-area: footer;
 }
 
-.blob {
-  grid-area: blob;
-}
-
-.jdc {
-  grid-area: jdc;
-}
-
-.jdc_cultures{
-  grid-area: jdc_cultures;
-}
-
 a,
 a:link {
   color: rgb(255,0,0);
