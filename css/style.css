@@ -17,7 +17,7 @@ body {
   grid-template-areas:
     "header header"
     "main   nav"
-    "footer   nav"
+    "footer  main"
 }
 
 body p {
