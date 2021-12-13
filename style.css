@@ -20,6 +20,24 @@ body p {
   line-height: 2.0;
 }
 
+.header {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+.sheahalpenny {
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
+}
+
+.title {
+  display: inline;
+  font-size: 50px;
+  padding-right: 100px;
+}
+
 header {
   grid-area: header;
 }
