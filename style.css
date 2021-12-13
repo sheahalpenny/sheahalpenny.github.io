@@ -20,6 +20,39 @@ body p {
   line-height: 2.0;
 }
 
+header {
+  grid-area: header;
+}
+
+nav {
+  grid-area: nav;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
+
+a,
+a:link {
+  color: rgb(255,0,0);
+}
+
+a:visited {
+  color: 	rgb(75,0,130);
+}
+
+a:hover {
+  color: rgb(0,0,205);
+}
+
+a:active {
+  color: rgb(245,188,78);
+}
+
 aside p{
   font-family: "Mallanna", "Georgia", "Times New Roman", serif;
   font-size: 14px;
