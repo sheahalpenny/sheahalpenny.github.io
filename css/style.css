@@ -110,7 +110,13 @@ a:active {
 
 aside p{
   font-family: "Mallanna", "Georgia", "Times New Roman", serif;
-  font-size: 14px;
+  font-size: 16px;
+  color: #8B0000;
+}
+
+h4 {
+  font-family: "Mallanna", "Georgia", "Times New Roman", serif;
+  font-size: 16px;
   color: #8B0000;
 }
 
