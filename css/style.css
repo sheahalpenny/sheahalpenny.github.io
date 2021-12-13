@@ -38,9 +38,9 @@ body p {
 }
 
 .sheahalpenny {
-  width: 150px;
+  width: 200px;
   float: left;
-  flex-basis: 40%;
+  flex-basis: 60%;
 }
 
 .blob {
