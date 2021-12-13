@@ -12,3 +12,21 @@ body {
   max-width: 1080px;
   margin: 0;
 }
+
+body p {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: #000080;
+  line-height: 2.0;
+}
+
+aside p{
+  font-family: "Mallanna", "Georgia", "Times New Roman", serif;
+  font-size: 14px;
+  color: #8B0000;
+}
+
+footer p {
+  font-size: 12px;
+  color: #aaa;
+}
