@@ -40,19 +40,19 @@ body p {
 }
 
 .blob {
-  width: 150px;
+  width: 300px;
   float: left;
   flex-basis: 40%;
 }
 
 .jdc{
-  width: 150px;
-  float: left;
+  width: 300px;
+  float: right;
   flex-basis: 40%;
 }
 
 .jdc_cultures {
-  width: 150px;
+  width: 300px;
   float: left;
   flex-basis: 40%;
 }
