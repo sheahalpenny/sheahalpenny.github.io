@@ -18,10 +18,6 @@ body {
     "header header"
     "main   nav"
     "main   footer";
-  grid-template-areas:
-    "blob           blob"
-    "jdc            jdc"
-    "jdc_cultures   jdc_cultures";
 }
 
 body p {
@@ -40,7 +36,7 @@ body p {
 .sheahalpenny {
   width: 200px;
   float: left;
-  flex-basis: 60%;
+  flex-basis: 40%;
 }
 
 .blob {
