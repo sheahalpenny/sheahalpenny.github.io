@@ -50,6 +50,11 @@ body p {
   flex-basis: 40%;
 }
 
+img {
+max-width: 100%;
+height: auto;
+}
+
 .title {
   display: inline;
   font-size: 50px;
