@@ -1,0 +1,14 @@
+/*stylesheet*/
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+@import url('https://fonts.googleapis.com/css?family=SyneMono');
+@import url('https://fonts.googleapis.com/css?family=Mallanna');
+
+body {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: #000080;
+  background-color: #DEB887;
+  line-height: 2.0;
+  max-width: 1080px;
+  margin: 0;
+}
