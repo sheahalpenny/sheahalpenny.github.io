@@ -39,7 +39,6 @@ body p {
   flex-basis: 40%;
 }
 
-
 img {
 max-width: 100%;
 height: auto;
@@ -109,18 +108,9 @@ footer p {
   color: #8B0000;
 }
 
-div.gallery {
-  margin: 5px;
-  border: 2px solid #2F4F4F;
-  float: left;
-  width: 200px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
+.Culture_Gallery {
+    border-style: solid;
+    border-color:#2F4F4F;
+    padding:10px;
+    margin: 10px;
 }
