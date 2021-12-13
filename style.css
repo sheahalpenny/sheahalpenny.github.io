@@ -1,0 +1,101 @@
+/*stylesheet*/
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+@import url('https://fonts.googleapis.com/css?family=SyneMono');
+@import url('https://fonts.googleapis.com/css?family=Mallanna');
+
+body {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: #000080;
+  background-color: #DEB887;
+  line-height: 2.0;
+  max-width: 1080px;
+  margin: 0;
+}
+
+body p {
+  font-family: "SyneMono", "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  color: #000080;
+  line-height: 2.0;
+}
+
+.header {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+.sheahalpenny {
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
+}
+
+.blob {
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
+}
+
+.jdc{
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
+}
+
+.jdc_cultures {
+  width: 150px;
+  float: left;
+  flex-basis: 40%;
+}
+
+.title {
+  display: inline;
+  font-size: 50px;
+  padding-right: 100px;
+}
+
+header {
+  grid-area: header;
+}
+
+nav {
+  grid-area: nav;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
+
+a,
+a:link {
+  color: rgb(255,0,0);
+}
+
+a:visited {
+  color: 	rgb(75,0,130);
+}
+
+a:hover {
+  color: rgb(0,0,205);
+}
+
+a:active {
+  color: rgb(245,188,78);
+}
+
+aside p{
+  font-family: "Mallanna", "Georgia", "Times New Roman", serif;
+  font-size: 14px;
+  color: #8B0000;
+}
+
+footer p {
+  font-size: 12px;
+  color: #8B0000;
+}
